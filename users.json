@@ -1,234 +1,467 @@
 {
-  "metadata": {
-    "kelas": "XI.1",
-    "jumlah_siswa": 38,
-    "updated": "2026-08-17T08:37:24.822Z"
-  },
-  "siswa": [
+  "kelases": [
+    "XI.1"
+  ],
+  "siswas": [
     {
-      "id": 1786954549297,
+      "id": 1786961300021,
       "nama": "ABDUL HALIM YAFI",
       "nohp": "08116607828",
       "kelas": "XI.1"
     },
     {
-      "id": 1786954549298,
+      "id": 1786961300022,
       "nama": "ABELIA RAHMADHANI",
       "nohp": "082171474107",
       "kelas": "XI.1"
     },
     {
-      "id": 1786954549299,
+      "id": 1786961300023,
       "nama": "AHMAD HAIKAL",
       "nohp": "081363173880",
       "kelas": "XI.1"
     },
     {
-      "id": 1786954549300,
+      "id": 1786961300024,
       "nama": "ARIFIN BILLAH",
       "nohp": "085263107549",
       "kelas": "XI.1"
     },
     {
-      "id": 1786954549301,
+      "id": 1786961300025,
       "nama": "ASYIFA HUMAIRA",
       "nohp": "082172352799",
       "kelas": "XI.1"
     },
     {
-      "id": 1786954549302,
+      "id": 1786961300026,
       "nama": "DWI CAHAYA PELANGI",
       "nohp": "081372768870",
       "kelas": "XI.1"
     },
     {
-      "id": 1786954549303,
+      "id": 1786961300027,
       "nama": "FAIQ FADHIL AFANDI",
       "nohp": "082284083498",
       "kelas": "XI.1"
     },
     {
-      "id": 1786954549304,
+      "id": 1786961300028,
       "nama": "FARRAS IBNI ANDREA",
       "nohp": "081374505001",
       "kelas": "XI.1"
     },
     {
-      "id": 1786954549305,
+      "id": 1786961300029,
       "nama": "FATIZHIA ZHAFAR ANWAR",
       "nohp": "085272735450",
       "kelas": "XI.1"
     },
     {
-      "id": 1786954549306,
+      "id": 1786961300030,
       "nama": "FAYYASA AQILA RANY",
       "nohp": "081363423639",
       "kelas": "XI.1"
     },
     {
-      "id": 1786954549307,
+      "id": 1786961300031,
       "nama": "GABRIEL BRAJA FALEVI",
       "nohp": "082390754165",
       "kelas": "XI.1"
     },
     {
-      "id": 1786954549308,
+      "id": 1786961300033,
       "nama": "HALWA HAZIRAH",
       "nohp": "082387305329",
       "kelas": "XI.1"
     },
     {
-      "id": 1786954549309,
+      "id": 1786961300034,
       "nama": "HANIFAH KHAIRA",
       "nohp": "085763010763",
       "kelas": "XI.1"
     },
     {
-      "id": 1786954549310,
+      "id": 1786961300035,
       "nama": "HAYATUN NAJWA",
       "nohp": "-",
       "kelas": "XI.1"
     },
     {
-      "id": 1786954549311,
+      "id": 1786961300036,
       "nama": "HILMYA VARIZA ATHALIFA",
       "nohp": "08126696798",
       "kelas": "XI.1"
     },
     {
-      "id": 1786954549312,
+      "id": 1786961300037,
       "nama": "HONEY AZALEA NARINO",
       "nohp": "081374638900",
       "kelas": "XI.1"
     },
     {
-      "id": 1786954549313,
+      "id": 1786961300038,
       "nama": "IBRAHIMOVIC",
       "nohp": "089524487245",
       "kelas": "XI.1"
     },
     {
-      "id": 1786954549314,
+      "id": 1786961300039,
       "nama": "KAYLA RINDIA FEBRIANA",
       "nohp": "082135670609",
       "kelas": "XI.1"
     },
     {
-      "id": 1786954549315,
+      "id": 1786961300040,
       "nama": "KIRANA PUTRI ANDRIN",
       "nohp": "085294315282",
       "kelas": "XI.1"
     },
     {
-      "id": 1786954549316,
+      "id": 1786961300042,
       "nama": "LATIFAH SYAFETRI",
       "nohp": "085263026773",
       "kelas": "XI.1"
     },
     {
-      "id": 1786954549317,
+      "id": 1786961300043,
       "nama": "M. GHANIE LUTHFI MUKHLIS",
       "nohp": "-",
       "kelas": "XI.1"
     },
     {
-      "id": 1786954549318,
+      "id": 1786961300044,
       "nama": "M. NADHIF AR-RAZIQ",
       "nohp": "085375757498",
       "kelas": "XI.1"
     },
     {
-      "id": 1786954549319,
+      "id": 1786961300045,
       "nama": "MUHAMMAD ADYA FAHRAZA",
       "nohp": "085278025711",
       "kelas": "XI.1"
     },
     {
-      "id": 1786954549320,
+      "id": 1786961300046,
       "nama": "MUHAMMAD FADHLAN",
       "nohp": "089524488104",
       "kelas": "XI.1"
     },
     {
-      "id": 1786954549321,
+      "id": 1786961300047,
       "nama": "MUHAMMAD RASYID AL-HAFIZ",
       "nohp": "085363145459",
       "kelas": "XI.1"
     },
     {
-      "id": 1786954549322,
+      "id": 1786961300048,
       "nama": "MUTIA DWI AQIILAH",
       "nohp": "-",
       "kelas": "XI.1"
     },
     {
-      "id": 1786954549323,
+      "id": 1786961300050,
       "nama": "NADZILA FARHANA KHAIRA",
       "nohp": "083821961313",
       "kelas": "XI.1"
     },
     {
-      "id": 1786954549324,
+      "id": 1786961300051,
       "nama": "NEYSA VANIA PUTRI",
       "nohp": "085263931979",
       "kelas": "XI.1"
     },
     {
-      "id": 1786954549325,
+      "id": 1786961300052,
       "nama": "RAHMAT RAFAEL",
       "nohp": "083186893491",
       "kelas": "XI.1"
     },
     {
-      "id": 1786954549326,
+      "id": 1786961300053,
       "nama": "RIZKY AL- FITRAH",
       "nohp": "081267006604",
       "kelas": "XI.1"
     },
     {
-      "id": 1786954549327,
+      "id": 1786961300054,
       "nama": "ROSA HAMKA",
       "nohp": "081363377003",
       "kelas": "XI.1"
     },
     {
-      "id": 1786954549328,
+      "id": 1786961300055,
       "nama": "SALMA FADJARIA",
       "nohp": "0895347055493",
       "kelas": "XI.1"
     },
     {
-      "id": 1786954549329,
+      "id": 1786961300056,
       "nama": "SAYYID A'MIR MUWAFFAQ",
       "nohp": "085375973495",
       "kelas": "XI.1"
     },
     {
-      "id": 1786954549330,
+      "id": 1786961300057,
       "nama": "SITI AMOURA BATRISYIA AZZAHRA",
       "nohp": "08126724910",
       "kelas": "XI.1"
     },
     {
-      "id": 1786954549331,
+      "id": 1786961300058,
       "nama": "TARIQ ER RUSYD ILL JANNAT",
       "nohp": "081363274922",
       "kelas": "XI.1"
     },
     {
-      "id": 1786954549332,
+      "id": 1786961300059,
       "nama": "VELLERY CALLISTA ARNOLD",
       "nohp": "082381043654",
       "kelas": "XI.1"
     },
     {
-      "id": 1786954549333,
+      "id": 1786961300060,
       "nama": "ZASKIA FITRI RAMADHAN",
       "nohp": "082377079025",
       "kelas": "XI.1"
     },
     {
-      "id": 1786954549334,
+      "id": 1786961300061,
+      "nama": "ZIKRA LATHIFAH",
+      "nohp": "085761213252",
+      "kelas": "XI.1"
+    }
+  ],
+  "metadata": {
+    "kelas": "XI.1",
+    "jumlah_siswa": 38,
+    "updated": "2026-08-17T10:09:03.384Z"
+  },
+  "siswa": [
+    {
+      "id": 1786961300021,
+      "nama": "ABDUL HALIM YAFI",
+      "nohp": "08116607828",
+      "kelas": "XI.1"
+    },
+    {
+      "id": 1786961300022,
+      "nama": "ABELIA RAHMADHANI",
+      "nohp": "082171474107",
+      "kelas": "XI.1"
+    },
+    {
+      "id": 1786961300023,
+      "nama": "AHMAD HAIKAL",
+      "nohp": "081363173880",
+      "kelas": "XI.1"
+    },
+    {
+      "id": 1786961300024,
+      "nama": "ARIFIN BILLAH",
+      "nohp": "085263107549",
+      "kelas": "XI.1"
+    },
+    {
+      "id": 1786961300025,
+      "nama": "ASYIFA HUMAIRA",
+      "nohp": "082172352799",
+      "kelas": "XI.1"
+    },
+    {
+      "id": 1786961300026,
+      "nama": "DWI CAHAYA PELANGI",
+      "nohp": "081372768870",
+      "kelas": "XI.1"
+    },
+    {
+      "id": 1786961300027,
+      "nama": "FAIQ FADHIL AFANDI",
+      "nohp": "082284083498",
+      "kelas": "XI.1"
+    },
+    {
+      "id": 1786961300028,
+      "nama": "FARRAS IBNI ANDREA",
+      "nohp": "081374505001",
+      "kelas": "XI.1"
+    },
+    {
+      "id": 1786961300029,
+      "nama": "FATIZHIA ZHAFAR ANWAR",
+      "nohp": "085272735450",
+      "kelas": "XI.1"
+    },
+    {
+      "id": 1786961300030,
+      "nama": "FAYYASA AQILA RANY",
+      "nohp": "081363423639",
+      "kelas": "XI.1"
+    },
+    {
+      "id": 1786961300031,
+      "nama": "GABRIEL BRAJA FALEVI",
+      "nohp": "082390754165",
+      "kelas": "XI.1"
+    },
+    {
+      "id": 1786961300033,
+      "nama": "HALWA HAZIRAH",
+      "nohp": "082387305329",
+      "kelas": "XI.1"
+    },
+    {
+      "id": 1786961300034,
+      "nama": "HANIFAH KHAIRA",
+      "nohp": "085763010763",
+      "kelas": "XI.1"
+    },
+    {
+      "id": 1786961300035,
+      "nama": "HAYATUN NAJWA",
+      "nohp": "-",
+      "kelas": "XI.1"
+    },
+    {
+      "id": 1786961300036,
+      "nama": "HILMYA VARIZA ATHALIFA",
+      "nohp": "08126696798",
+      "kelas": "XI.1"
+    },
+    {
+      "id": 1786961300037,
+      "nama": "HONEY AZALEA NARINO",
+      "nohp": "081374638900",
+      "kelas": "XI.1"
+    },
+    {
+      "id": 1786961300038,
+      "nama": "IBRAHIMOVIC",
+      "nohp": "089524487245",
+      "kelas": "XI.1"
+    },
+    {
+      "id": 1786961300039,
+      "nama": "KAYLA RINDIA FEBRIANA",
+      "nohp": "082135670609",
+      "kelas": "XI.1"
+    },
+    {
+      "id": 1786961300040,
+      "nama": "KIRANA PUTRI ANDRIN",
+      "nohp": "085294315282",
+      "kelas": "XI.1"
+    },
+    {
+      "id": 1786961300042,
+      "nama": "LATIFAH SYAFETRI",
+      "nohp": "085263026773",
+      "kelas": "XI.1"
+    },
+    {
+      "id": 1786961300043,
+      "nama": "M. GHANIE LUTHFI MUKHLIS",
+      "nohp": "-",
+      "kelas": "XI.1"
+    },
+    {
+      "id": 1786961300044,
+      "nama": "M. NADHIF AR-RAZIQ",
+      "nohp": "085375757498",
+      "kelas": "XI.1"
+    },
+    {
+      "id": 1786961300045,
+      "nama": "MUHAMMAD ADYA FAHRAZA",
+      "nohp": "085278025711",
+      "kelas": "XI.1"
+    },
+    {
+      "id": 1786961300046,
+      "nama": "MUHAMMAD FADHLAN",
+      "nohp": "089524488104",
+      "kelas": "XI.1"
+    },
+    {
+      "id": 1786961300047,
+      "nama": "MUHAMMAD RASYID AL-HAFIZ",
+      "nohp": "085363145459",
+      "kelas": "XI.1"
+    },
+    {
+      "id": 1786961300048,
+      "nama": "MUTIA DWI AQIILAH",
+      "nohp": "-",
+      "kelas": "XI.1"
+    },
+    {
+      "id": 1786961300050,
+      "nama": "NADZILA FARHANA KHAIRA",
+      "nohp": "083821961313",
+      "kelas": "XI.1"
+    },
+    {
+      "id": 1786961300051,
+      "nama": "NEYSA VANIA PUTRI",
+      "nohp": "085263931979",
+      "kelas": "XI.1"
+    },
+    {
+      "id": 1786961300052,
+      "nama": "RAHMAT RAFAEL",
+      "nohp": "083186893491",
+      "kelas": "XI.1"
+    },
+    {
+      "id": 1786961300053,
+      "nama": "RIZKY AL- FITRAH",
+      "nohp": "081267006604",
+      "kelas": "XI.1"
+    },
+    {
+      "id": 1786961300054,
+      "nama": "ROSA HAMKA",
+      "nohp": "081363377003",
+      "kelas": "XI.1"
+    },
+    {
+      "id": 1786961300055,
+      "nama": "SALMA FADJARIA",
+      "nohp": "0895347055493",
+      "kelas": "XI.1"
+    },
+    {
+      "id": 1786961300056,
+      "nama": "SAYYID A'MIR MUWAFFAQ",
+      "nohp": "085375973495",
+      "kelas": "XI.1"
+    },
+    {
+      "id": 1786961300057,
+      "nama": "SITI AMOURA BATRISYIA AZZAHRA",
+      "nohp": "08126724910",
+      "kelas": "XI.1"
+    },
+    {
+      "id": 1786961300058,
+      "nama": "TARIQ ER RUSYD ILL JANNAT",
+      "nohp": "081363274922",
+      "kelas": "XI.1"
+    },
+    {
+      "id": 1786961300059,
+      "nama": "VELLERY CALLISTA ARNOLD",
+      "nohp": "082381043654",
+      "kelas": "XI.1"
+    },
+    {
+      "id": 1786961300060,
+      "nama": "ZASKIA FITRI RAMADHAN",
+      "nohp": "082377079025",
+      "kelas": "XI.1"
+    },
+    {
+      "id": 1786961300061,
       "nama": "ZIKRA LATHIFAH",
       "nohp": "085761213252",
       "kelas": "XI.1"
